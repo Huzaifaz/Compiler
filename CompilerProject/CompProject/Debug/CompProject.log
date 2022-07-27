@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\My Study files\semester 7\Compiler Construction\CompilerProject\CompProject\Source.cpp(41,6): warning C4101: 'r': unreferenced local variable
+D:\My Study files\semester 7\Compiler Construction\CompilerProject\CompProject\Source.cpp(66,20): warning C4018: '<': signed/unsigned mismatch
+D:\My Study files\semester 7\Compiler Construction\CompilerProject\CompProject\Source.cpp(125,20): warning C4018: '<': signed/unsigned mismatch
+D:\My Study files\semester 7\Compiler Construction\CompilerProject\CompProject\Source.cpp(134,20): warning C4018: '<': signed/unsigned mismatch
+D:\My Study files\semester 7\Compiler Construction\CompilerProject\CompProject\Source.cpp(148,16): warning C4018: '<': signed/unsigned mismatch
+D:\My Study files\semester 7\Compiler Construction\CompilerProject\CompProject\Source.cpp(195,20): warning C4018: '<': signed/unsigned mismatch
+  CompProject.vcxproj -> D:\My Study files\semester 7\Compiler Construction\CompilerProject\CompProject\Debug\CompProject.exe

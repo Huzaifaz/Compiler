@@ -1,0 +1,9 @@
+int
+float
+a_
+bool
+b_b
+loop
+a_a
+agar
+_a
